@@ -10,7 +10,7 @@
 9.	VisualModel360 using pycaret:[ khadidja2023M/pycaret (github.com)](https://github.com/khadidja2023M/pycaret)
 10.	VisualModel360 using pandas profiling report: https://github.com/khadidja2023M/khadi/blob/main/main.py
 11.	Customer Segmentation for E-commerce Personalization:[ khadidja2023M/kmeans (github.com)](https://github.com/khadidja2023M/kmeans)
-12.	Market Segmentation with Neural Networks: Segment/unsupervised (2).zip at main · khadidja2023M/Segment (github.com)
+12.	Market Segmentation with Neural Networks: [Segment/unsupervised (2).zip at main · khadidja2023M/Segment (github.com)](https://github.com/khadidja2023M/Segment)
 13.	National ID Card Recognition: khadidja2023M/ID (github.com)
 14.	NLP Twitter Disaster Classifier: https://github.com/khadidja2023M/streamlit_tweet
 15.	Sentiment Analysis on Social Media Posts with LSTM: khadidja2023M/Amazon (github.com)
