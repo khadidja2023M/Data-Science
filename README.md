@@ -14,7 +14,7 @@
 13.	National ID Card Recognition: khadidja2023M/ID (github.com)
 14.	NLP Twitter Disaster Classifier: https://github.com/khadidja2023M/streamlit_tweet
 15.	Sentiment Analysis on Social Media Posts with LSTM: khadidja2023M/Amazon (github.com)
-16.	Medical Image Analysis with CNN: khadidja2023M/chestxray (github.com)
+16.	Medical Image Analysis with CNN:[ khadidja2023M/chestxray (github.com)](https://github.com/khadidja2023M/chestxray)
 17.	Obesity Prediction: khadidja2023M/obesity (github.com)
 18.	Cryptocurrency Project time series: https://github.com/khadidja2023M/crypto
 19.	Credit Card Fraud Detection: https://github.com/khadidja2023M/Fraud
