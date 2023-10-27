@@ -7,7 +7,7 @@
 6.	Automated Exploratory Data Analysis:[ khadidja2023M/final (github.com)](https://github.com/khadidja2023M/final)
 7.	Airbnb Listing EDA:[ khadidja2023M/AirbnbEDA (github.com)](https://github.com/khadidja2023M/AirbnbEDA)
 8.	VisualModel360 a complete modeling tool that can do visualization and prediction:https://github.com/khadidja2023M/supervised_foundation/tree/main/supervised_foundation
-9.	VisualModel360 using pycaret: khadidja2023M/pycaret (github.com)
+9.	VisualModel360 using pycaret:[ khadidja2023M/pycaret (github.com)](https://github.com/khadidja2023M/pycaret)
 10.	VisualModel360 using pandas profiling report: https://github.com/khadidja2023M/khadi/blob/main/main.py
 11.	Customer Segmentation for E-commerce Personalization: khadidja2023M/kmeans (github.com)
 12.	Market Segmentation with Neural Networks: Segment/unsupervised (2).zip at main · khadidja2023M/Segment (github.com)
