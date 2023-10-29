@@ -1,9 +1,11 @@
 I am a skilled Machine Learning Engineer with a diverse range of competencies including expertise in computer vision and natural language processing (NLP). I excel in data pre-processing,performing tasks such as data cleaning, feature engineering, and data transformation. My experience extends to model development, encompassing the use of deep learning  frameworks like TensorFlow. Additionally, I have a knack for data visualization, using tools like Python , Excel, Power BI and Tableau to convey insights clearly. My commitment to continuous learning and problem solving skills complements my technical prowess, making me a well-rounded Machine Learning Engineer capable of delivering innovative solutions. 
 You can reach me through the following platforms:
-Khadidja Mekiri | LinkedIn
 LinkedIn: https://www.linkedin.com/in/khadidja-mekiri-655b02261/
+
 Kaggle: (https://www.kaggle.com/hibainidjouane) - Check out my Kaggle profile to see my contributions and achievements in data science and machine learning.
+
 Portfolio Website:  - Visit my portfolio website to access detailed information about my projects and their outcomes.
+
 Here are links to some of my recent projects that showcase my expertise and problem-solving abilities:
 
 # Data-Science projects links:
