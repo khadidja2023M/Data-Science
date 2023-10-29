@@ -1,4 +1,5 @@
 I am a skilled Machine Learning Engineer with a diverse range of competencies including expertise in computer vision and natural language processing (NLP). I excel in data pre-processing,performing tasks such as data cleaning, feature engineering, and data transformation. My experience extends to model development, encompassing the use of deep learning  frameworks like TensorFlow. Additionally, I have a knack for data visualization, using tools like Python , Excel, Power BI and Tableau to convey insights clearly. My commitment to continuous learning and problem solving skills complements my technical prowess, making me a well-rounded Machine Learning Engineer capable of delivering innovative solutions. 
+Here are links to some of my recent projects that showcase my expertise and problem-solving abilities:
 
 # Data-Science projects links:
 1.	Tableau Dashboard: [TableauDashboard | Tableau Public](https://public.tableau.com/app/profile/khadidja.mekiri4990/viz/TableauDashboard_16937747023000/Dashboard2?publish=yes)
