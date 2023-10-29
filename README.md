@@ -3,9 +3,7 @@ You can reach me through the following platforms:
 LinkedIn: https://www.linkedin.com/in/khadidja-mekiri-655b02261/
 
 Kaggle: (https://www.kaggle.com/hibainidjouane) - Check out my Kaggle profile to see my contributions and achievements in data science and machine learning.
-
 Portfolio Website:  - Visit my portfolio website to access detailed information about my projects and their outcomes.
-
 Here are links to some of my recent projects that showcase my expertise and problem-solving abilities:
 
 # Data-Science projects links:
