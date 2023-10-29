@@ -5,7 +5,7 @@ You can connect with me through these platforms:
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khadidja-mekiri-655b02261/)
 Kaggle: [Kaggle Profile](https://www.kaggle.com/hibainidjouane) - Explore my contributions in data science and machine learning.
 Portfolio Website: [Portfolio Website Link] - Access details about my projects and their outcomes.
-Here are links to some of my recent projects that showcase my expertise:
+Here are links to some of my recent projects that showcase my expertise: 
 
 1.	Tableau Dashboard: [TableauDashboard | Tableau Public](https://public.tableau.com/app/profile/khadidja.mekiri4990/viz/TableauDashboard_16937747023000/Dashboard2?publish=yes)
 2.	Power BI Dashboard:https://app.powerbi.com/groups/me/reports/6db1c686-fe58-45e0-8499-f5ae421966e1/ReportSection?experience=power-bi
