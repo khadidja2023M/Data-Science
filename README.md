@@ -3,7 +3,7 @@ I am a skilled Machine Learning Engineer with expertise in computer vision and n
 I also have a passion for data visualization, using tools such as Python, Excel, Power BI, and Tableau to convey insights effectively. My commitment to continuous learning and problem-solving skills complements my technical prowess, making me a well-rounded Machine Learning Engineer capable of delivering innovative solutions.
 You can connect with me through
 [LinkedIn](https://www.linkedin.com/in/khadidja-mekiri-655b02261/)
-and [Kaggle](https://www.kaggle.com/hibainidjouane)
+and [Kaggle](https://www.kaggle.com/hibainidjouane).
 [Portfolio Website Link](https://khadidja2023m.github.io/portfolio.github.io/) - Access details about my projects and their outcomes.
 Here are links to some of my recent projects that showcase my expertise: 
 
