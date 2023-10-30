@@ -4,7 +4,7 @@ I also have a passion for data visualization, using tools such as Python, Excel,
 You can connect with me through
 [LinkedIn](https://www.linkedin.com/in/khadidja-mekiri-655b02261/)
 and [Kaggle](https://www.kaggle.com/hibainidjouane).
-[Portfolio Website Link](https://khadidja2023m.github.io/portfolio.github.io/) - Access details about my projects and their outcomes.
+[Portfolio Website Link](https://khadidja2023m.github.io/portfolio.github.io/).
 Here are links to some of my recent projects that showcase my expertise: 
 
 1.	[Tableau Dashboard](https://public.tableau.com/app/profile/khadidja.mekiri4990/viz/TableauDashboard_16937747023000/Dashboard2?publish=yes)
