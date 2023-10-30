@@ -7,8 +7,8 @@ Kaggle: [Kaggle Profile](https://www.kaggle.com/hibainidjouane) - Explore my con
 Portfolio Website: [Portfolio Website Link] - Access details about my projects and their outcomes.
 Here are links to some of my recent projects that showcase my expertise: 
 
-1.	Tableau Dashboard: [TableauDashboard | Tableau Public](https://public.tableau.com/app/profile/khadidja.mekiri4990/viz/TableauDashboard_16937747023000/Dashboard2?publish=yes)
-2.	Power BI Dashboard:https://app.powerbi.com/groups/me/reports/6db1c686-fe58-45e0-8499-f5ae421966e1/ReportSection?experience=power-bi
+1.	[Tableau Dashboard](https://public.tableau.com/app/profile/khadidja.mekiri4990/viz/TableauDashboard_16937747023000/Dashboard2?publish=yes)
+2.	[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/6db1c686-fe58-45e0-8499-f5ae421966e1/ReportSection?experience=power-bi)
 3.	Tic-Tac-Toe: https://github.com/khadidja2023M/Tic-Tac-Toe
 4.	Airbnb Software Development: [khadidja2023M/COM_728_Airbnb (github.com)](https://github.com/khadidja2023M/COM_728_Airbnb)
 5.	Mental Health Chatbot: https://github.com/khadidja2023M/chatbot
