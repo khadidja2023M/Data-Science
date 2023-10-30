@@ -1,9 +1,9 @@
 # Data-Science projects:
 I am a skilled Machine Learning Engineer with expertise in computer vision and natural language processing (NLP). My strengths lie in data pre-processing, including data cleaning, feature engineering, and transformation. I have extensive experience in model development using deep learning frameworks like TensorFlow.
 I also have a passion for data visualization, using tools such as Python, Excel, Power BI, and Tableau to convey insights effectively. My commitment to continuous learning and problem-solving skills complements my technical prowess, making me a well-rounded Machine Learning Engineer capable of delivering innovative solutions.
-You can connect with me through these platforms:
+You can connect with me through
 [LinkedIn](https://www.linkedin.com/in/khadidja-mekiri-655b02261/)
-[Kaggle](https://www.kaggle.com/hibainidjouane) - Explore my contributions in data science and machine learning.
+and [Kaggle](https://www.kaggle.com/hibainidjouane) - Explore my contributions in data science and machine learning.
 [Portfolio Website Link](https://khadidja2023m.github.io/portfolio.github.io/) - Access details about my projects and their outcomes.
 Here are links to some of my recent projects that showcase my expertise: 
 
