@@ -2,14 +2,14 @@
 I am a skilled Machine Learning Engineer with expertise in computer vision and natural language processing (NLP). My strengths lie in data pre-processing, including data cleaning, feature engineering, and transformation. I have extensive experience in model development using deep learning frameworks like TensorFlow.
 I also have a passion for data visualization, using tools such as Python, Excel, Power BI, and Tableau to convey insights effectively. My commitment to continuous learning and problem-solving skills complements my technical prowess, making me a well-rounded Machine Learning Engineer capable of delivering innovative solutions.
 You can connect with me through these platforms:
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khadidja-mekiri-655b02261/)
-Kaggle: [Kaggle Profile](https://www.kaggle.com/hibainidjouane) - Explore my contributions in data science and machine learning.
-Portfolio Website: [Portfolio Website Link](https://khadidja2023m.github.io/portfolio.github.io/) - Access details about my projects and their outcomes.
+[LinkedIn](https://www.linkedin.com/in/khadidja-mekiri-655b02261/)
+[Kaggle](https://www.kaggle.com/hibainidjouane) - Explore my contributions in data science and machine learning.
+[Portfolio Website Link](https://khadidja2023m.github.io/portfolio.github.io/) - Access details about my projects and their outcomes.
 Here are links to some of my recent projects that showcase my expertise: 
 
 1.	[Tableau Dashboard](https://public.tableau.com/app/profile/khadidja.mekiri4990/viz/TableauDashboard_16937747023000/Dashboard2?publish=yes)
 2.	[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/6db1c686-fe58-45e0-8499-f5ae421966e1/ReportSection?experience=power-bi)
-3.	[Tic-Tac-Toe: https](//github.com/khadidja2023M/Tic-Tac-Toe)
+3.	[Tic-Tac-Toe](//github.com/khadidja2023M/Tic-Tac-Toe)
 4.	[Airbnb Software Development](https://github.com/khadidja2023M/COM_728_Airbnb)
 5.	[Mental Health Chatbot](https://github.com/khadidja2023M/chatbot)
 6.	[Automated Exploratory Data Analysis](https://github.com/khadidja2023M/final)
