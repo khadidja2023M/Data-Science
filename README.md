@@ -13,7 +13,7 @@ Here are links to some of my recent projects that showcase my expertise:
 4.	Airbnb Software Development: [khadidja2023M/COM_728_Airbnb (github.com)](https://github.com/khadidja2023M/COM_728_Airbnb)
 5.	Mental Health Chatbot: https://github.com/khadidja2023M/chatbot
 6.	Automated Exploratory Data Analysis:[ khadidja2023M/final (github.com)](https://github.com/khadidja2023M/final)
-7.	Airbnb Listing EDA:[AirbnbEDA](https://github.com/khadidja2023M/AirbnbEDA)
+7.	[Airbnb Listing EDA](https://github.com/khadidja2023M/AirbnbEDA)
 8.	Airbnb Listing EDA:[ khadidja2023M/AirbnbEDA (github.com)](https://github.com/khadidja2023M/AirbnbEDA)
 9.	VisualModel360 a complete modeling tool that can do visualization and prediction:https://github.com/khadidja2023M/supervised_foundation/tree/main/supervised_foundation
 10.	VisualModel360 using pycaret:[ khadidja2023M/pycaret (github.com)](https://github.com/khadidja2023M/pycaret)
