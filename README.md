@@ -25,5 +25,6 @@ Here are links to some of my recent projects that showcase my expertise:
 19.	[Cryptocurrency Project time series](https://github.com/khadidja2023M/crypto)
 20.	[Credit Card Fraud Detection](https://github.com/khadidja2023M/Fraud)
 21.	[Gender, Age and Ethnicity Prediction using Yolo and embeddings (FaceNet)](https://github.com/khadidja2023M/webrtc)
-21.	[Gender, Age and Ethnicity Prediction using Yolo and embeddings (FaceNet)](https://github.com/khadidja2023M/sql).
+21.	[SQL-based dashboard](https://github.com/khadidja2023M/sql).
+22.	[SQL-based dashboard](https://github.com/khadidja2023M/sql)
     
